@@ -1,4 +1,15 @@
 *{
+    margin: 0;
+    padding: 0;
     list-style: none;
     box-sizing: border-box;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.img-start{
+    border: 8px solid cyan;
 }
