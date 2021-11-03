@@ -13,3 +13,20 @@ img {
 .img-start{
     border: 8px solid cyan;
 }
+
+#F{
+    border: 5px dashed lightskyblue;
+}
+
+.relative{
+    margin-left: 35px;
+    background: black;
+    width: 500px;
+    height: 500px;
+}
+
+.absolute{
+    background: gainsboro;
+    width: 100px;
+    height: 100px;
+}
