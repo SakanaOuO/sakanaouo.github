@@ -38,9 +38,11 @@ img {
 }
 
 .sheet{
-    border: 5px dashed lightskyblue;
-    font-size: 50px;
-    align-self: center;
+    width: 500px;
+    height: 500px;
+    background: gainsboro;
+    text-align-last: center;
+    margin-left: 35%;
 }
 
 .relative{
