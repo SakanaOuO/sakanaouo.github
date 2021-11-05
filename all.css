@@ -23,6 +23,7 @@
     width: 500px;
     background: rgba(220, 220, 220, 0);
     margin-top: 50px;
+    text-align-last: center;
 }
 
 td{
